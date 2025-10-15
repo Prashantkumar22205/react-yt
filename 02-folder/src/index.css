@@ -13,8 +13,10 @@ html,body{
 
 .card{
   /* height: 400px; */
-  width: 400px;
+  width: 40%;
    background-color: rgb(5, 69, 48);
    color: white;
    border-radius: 5px;
+   margin: 20px;
+   padding: 20px;
 }
